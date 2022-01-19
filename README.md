@@ -1,4 +1,4 @@
-# Analisador Léxico
+# Analisador Léxico básico
 
 A partir da string inserida como parâmetro na função `listarTokens()` em `main()`, o programa lista todos os tokens da
 linguagem definida em [espeficacoes_linguagem.pdf](doc/especificacoes_linguagem.pdf) reconhecidos na string.<br>
