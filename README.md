@@ -1,7 +1,9 @@
 # Analisador Léxico
 
 A partir da string inserida como parâmetro na função `listarTokens()` em `main()`, o programa lista todos os tokens da
-linguagem definida em [espeficacoes_linguagem.pdf](doc/especificacoes_linguagem.pdf) reconhecidos na string.
+linguagem definida em [espeficacoes_linguagem.pdf](doc/especificacoes_linguagem.pdf) reconhecidos na string.<br>
+Veja abaixo o autômato usado pelo analisador léxico:<br><br>
+![automato_lexico](/doc/automato_lexico.png)<br>
 
 ## Compilação e execução
 
