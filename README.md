@@ -72,6 +72,6 @@ int main(){
 
 Licenciado sob a [GNU General Public License](./LICENSE).
 
-## Condirações finais
+## Considerações finais
 
 Este programa faz parte de um dos componentes avaliativos da disciplina de Compiladores do Curso de Ciência da Computação da Universidade Federal do Amapá.
