@@ -46,6 +46,19 @@ E para executar, ainda no mesmo diretório do programa, use :
 ./program
 ```
 
+## Uso do programa
+
+Para usar o analisador léxico é necessário, antes de cada compilação e execução, modificar o parâmetro da 
+função `listarTokens()` em `main()` de [analisador_lexico.cpp](analisador_lexico.cpp), veja abaixo um exemplo
+pré-definido:<br>
+```cpp
+int main(){
+    listarTokens("for(int i = 0; i < 10; i=i+1)");
+
+    return 0;
+}
+```
+
 ## Ambiente de criação e teste
 
 **Informação do OS:** Linux Mint 20.2 Cinnamon.<br>
